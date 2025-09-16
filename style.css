@@ -1,0 +1,47 @@
+.nav-link:link {
+    font-family: 'Roboto', sans-serif;
+    color: #c49a6c;
+    font-size: 28px;
+}
+
+.nav-link:visited{
+    color: #c49a6c;
+
+}
+
+.nav-link:hover {
+    color: #ecac58;
+}
+
+.logo {
+    width: 200px;
+}
+
+.bg-custom{
+    background-color:#fbd3df;
+}
+
+.footer {
+    background-color: #9Ca9b0;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+}
+
+h5 {
+    font-weight:700;
+    color: #ffde59;
+}
+
+h5 {
+    color: #000000;
+}
+
+hs {
+    color: #fff;
+}
+
+.bi {
+    color: #000000;
+}
+
+
